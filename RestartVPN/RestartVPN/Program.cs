@@ -18,8 +18,9 @@ namespace RestartVPN
         static void Main(string[] args)
         {
 
-            DateTime time = DateTime.Now;
             
+            
+            //asfasad
            
             System.Console.WriteLine("Start Aplicatie de Resetare VPN - "+time.ToString());
             while (1==1){
