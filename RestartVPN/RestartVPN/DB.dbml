@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="XV00" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=hetzner5.realmedia.ro;Initial Catalog=XV00;User ID=sa" SettingsObjectName="RestartVPN.Properties.Settings" SettingsPropertyName="XV00ConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.Insert_restartVPN_last_ip" Method="Insert_restartVPN_last_ip">
+    <Parameter Name="ip" Type="System.String" DbType="VarChar(15)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

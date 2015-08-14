@@ -1,0 +1,6 @@
+c:\users\adrian.ghibaor\documents\visual studio 2013\Projects\RestartVPN\RestartVPN\bin\Debug\RestartVPN.exe.config
+c:\users\adrian.ghibaor\documents\visual studio 2013\Projects\RestartVPN\RestartVPN\bin\Debug\RestartVPN.exe
+c:\users\adrian.ghibaor\documents\visual studio 2013\Projects\RestartVPN\RestartVPN\bin\Debug\RestartVPN.pdb
+c:\users\adrian.ghibaor\documents\visual studio 2013\Projects\RestartVPN\RestartVPN\obj\Debug\RestartVPN.csprojResolveAssemblyReference.cache
+c:\users\adrian.ghibaor\documents\visual studio 2013\Projects\RestartVPN\RestartVPN\obj\Debug\RestartVPN.exe
+c:\users\adrian.ghibaor\documents\visual studio 2013\Projects\RestartVPN\RestartVPN\obj\Debug\RestartVPN.pdb
