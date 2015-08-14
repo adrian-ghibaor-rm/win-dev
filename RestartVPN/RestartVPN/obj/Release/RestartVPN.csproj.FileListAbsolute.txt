@@ -4,3 +4,6 @@ C:\Users\Adrian.Ghibaor\Documents\Visual Studio 2013\Projects\RestartVPN\Restart
 C:\Users\Adrian.Ghibaor\Documents\Visual Studio 2013\Projects\RestartVPN\RestartVPN\obj\Release\RestartVPN.exe
 C:\Users\Adrian.Ghibaor\Documents\Visual Studio 2013\Projects\RestartVPN\RestartVPN\obj\Release\RestartVPN.pdb
 C:\Users\Adrian.Ghibaor\Documents\Visual Studio 2013\Projects\RestartVPN\RestartVPN\obj\Release\RestartVPN.csprojResolveAssemblyReference.cache
+E:\git_test\win-dev\RestartVPN\RestartVPN\bin\Release\RestartVPN.exe.config
+E:\git_test\win-dev\RestartVPN\RestartVPN\obj\Release\RestartVPN.exe
+E:\git_test\win-dev\RestartVPN\RestartVPN\obj\Release\RestartVPN.pdb
